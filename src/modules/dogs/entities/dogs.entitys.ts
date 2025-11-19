@@ -3,4 +3,6 @@ export class Dog{
     idade: number;
     raca: string;
     peso: number;
+    foto: string;
+    disponivel: boolean;
 }
