@@ -4,7 +4,7 @@ class CreateDogDTO {
     peso: number;
     idade: number;
     foto: string;
-    
+    disponivel:boolean
 }
 
 export {CreateDogDTO};
